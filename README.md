@@ -31,4 +31,4 @@ python3 main.py
 
 Check mongo results
 
-![image1.jpg](image/image1.jpg)
+![image2.png](image/image2.png)
